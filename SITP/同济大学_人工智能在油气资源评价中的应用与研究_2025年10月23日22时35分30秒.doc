@@ -1,0 +1,989 @@
+﻿<!DOCTYPE html>
+<html xmlns:o='urn:schemas-microsoft-com:office:office'
+      xmlns:w='urn:schemas-microsoft-com:office:word'
+      xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+    <meta http-equiv="Content-Type" content="application/msword; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>同济大学_人工智能在油气资源评价中的应用与研究_2025年10月23日22时35分30秒</title>
+    <!--[if gte mso 9]>
+    <xml>
+    <w:WordDocument>
+    <w:View>Print</w:View>
+    <w:Zoom>100</w:Zoom>
+    <w:DoNotOptimizeForBrowser/>
+    <w:DisplayBackgroundShape/>
+    </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style type="text/css">
+        body.c-word--body {
+            padding: 0;
+            margin: 0;
+            font-family: "Microsoft YaHei", SimHei, SimSun, "Times New Roman", Georgia, Serif;
+        }
+
+        .c-word--empty {
+            text-align: center;
+            font-size: 24px;
+            color: #ddd;
+            padding: 60px 20px;
+        }
+
+        .c-word--title {
+            padding: 9pt 1pt;
+            margin: 0;
+            text-align: center;
+        }
+
+        table.table {
+            width: 100%;
+            margin: 3pt auto;
+            border-collapse: collapse;
+            border-spacing: 1pt;
+        }
+
+        table.table-border {
+            border-collapse: collapse;
+        }
+
+            table.table-border tr th {
+                border: solid windowtext 1pt;
+                border-color: #000;
+                border-width: 1pt;
+            }
+
+            table.table-border tr td {
+                border: solid windowtext 1pt;
+                border-color: #000;
+                border-width: 1pt;
+            }
+
+        .text-center {
+            text-align: center;
+        }
+    </style>
+    
+    <link href="https://cxcy.tongji.edu.cn/tjdxcx/assets/dist/css/Areas/Item/Declare/ExportWord.css" rel="stylesheet" />
+
+    
+    <style>
+    p.MsoFooter, li.MsoFooter, div.MsoFooter {
+        margin: 0in;
+        margin-bottom: 0.001pt;
+        mso-pagination: widow-orphan;
+        tab-stops: center 3.0in right 6.0in;
+        font-size: 12.0pt;
+        font-family: 等线, 宋体,华文细黑,'Microsoft YaHei',仿宋, 黑体;
+    }
+
+    <!-- /* Style Definitions */
+    @page Section1 {
+        size: 8.5in 11.0in;
+        margin: 1.0in 1.0in 1.0in 1.0in;
+        mso-header-margin: 0.5in;
+        mso-footer-margin: 0.5in;
+        mso-title-page: yes;
+        mso-header: page-info-container--header;
+        mso-even-header: page-info-container--header-;
+        mso-footer: page-info-container--footer;
+        mso-first-header: page-info-container--header-;
+        mso-first-footer: page-info-container--footer;
+        mso-paper-source: 0;
+    }
+
+    div.Section1 {
+        page: Section1;
+    }
+
+    table#page-info-container {
+        margin: 0in 0in 0in 900in;
+        width: 0px;
+        height: 0px;
+        overflow: hidden;
+    }
+    -->
+</style>
+
+</head>
+<body class="c-word--body">
+    <div>
+        
+
+        <div>
+
+            <p align="center" class="MsoNormal" style="margin-top: 10.0pt; margin-right: 0cm; margin-bottom: 20.0pt; margin-left: 0cm; text-align: center">
+                <span lang="EN-US" style="font-size: 26.0pt; font-family: 黑体; mso-hansi-font-family: 宋体">同济大学</span><span style="font-size: 26.0pt; font-family: 黑体">大学生</span><span lang="EN-US" style="font-size: 26.0pt; font-family: 黑体; mso-hansi-font-family: 宋体">创新训练项目</span><span style="font-size: 26.0pt; font-family: 黑体"></span><span lang="EN-US" style="font-size: 26.0pt; font-family: 黑体; mso-hansi-font-family: 宋体"><o:p></o:p></span>
+            </p>
+            <p align="center" class="MsoNormal" style="margin-top: 10.0pt; margin-right: 0cm; margin-bottom: 20.0pt; margin-left: 0cm; text-align: center">
+                <span style="font-size: 26.0pt; font-family: 黑体">季度报告</span><span lang="EN-US" style="font-size: 26.0pt; font-family: 黑体; mso-hansi-font-family: 宋体"><o:p></o:p></span>
+            </p>
+            <h4 style="line-height: 30.0pt; page-break-after: avoid; vertical-align: middle">
+                <span style="font-size: 14.0pt; font-family: 黑体">一、</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体"> </span><span style="font-size: 14.0pt; font-family: 黑体">项目基本信息</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体">
+                    <span lang="EN-US">
+                        <o:p></o:p>
+                    </span>
+                </span>
+            </h4>
+            <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width: 100.0%; margin-left: -1.8pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"
+                   width="100%">
+                <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+                    <td style="width: 20.0%; border: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="20%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">项目名称<span lang="EN-US"><o:p></o:p></span></span>
+                        </p>
+                    </td>
+                    <td colspan="3" style="border: solid windowtext 1.0pt; border-left: none; padding: 6.0pt 6.0pt 6.0pt 12.0pt">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p>人工智能在油气资源评价中的应用与研究</o:p>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style="mso-yfti-irow: 1">
+                    <td style="width: 20.0%; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="20%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">项目编号<span lang="EN-US"><o:p></o:p></span></span>
+                        </p>
+                    </td>
+                    <td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 12.0pt"
+                        width="30%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p>S202510247200</o:p>
+                            </span>
+                        </p>
+                    </td>
+                    <td style="width: 16.84%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: .75pt .75pt .75pt .75pt"
+                        width="16%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                项目级别<span lang="EN-US">
+                                    <o:p>
+
+                                    </o:p>
+                                </span>
+                            </span>
+                        </p>
+                    </td>
+                    <td style="border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: .75pt .75pt .75pt .75pt">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p>创新训练项目</o:p>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style="mso-yfti-irow: 2">
+                    <td style="width: 20.0%; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="20%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">起止时间（年月）<span lang="EN-US"><o:p></o:p></span></span>
+                        </p>
+                    </td>
+                    <td colspan="3" style="border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 12.0pt">
+                        <p class="MsoNormal" style="text-indent: 12.0pt; mso-char-indent-count: 1.0">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                2024
+                                年
+                                11
+                                月 至
+                                2024
+                                年
+                                11
+                                月 <span lang="EN-US">
+                                    <o:p></o:p>
+                                </span>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style="mso-yfti-irow: 3">
+                    <td style="width: 20.0%; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="20%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">项目负责人<span lang="EN-US"><o:p></o:p></span></span>
+                        </p>
+                    </td>
+                    <td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 12.0pt"
+                        width="30%">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">&nbsp;<o:p>李欣洋</o:p></span>
+                        </p>
+                    </td>
+                    <td style="width: 16.84%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="16%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">所在院系<span lang="EN-US"><o:p></o:p></span></span>
+                        </p>
+                    </td>
+                    <td style="width: 33.14%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 12.0pt"
+                        width="33%">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p>计算机科学与技术学院</o:p>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style="mso-yfti-irow: 4">
+                    <td style="width: 20.0%; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="20%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">学号<span lang="EN-US"><o:p></o:p></span></span>
+                        </p>
+                    </td>
+                    <td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 12.0pt"
+                        width="30%">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p>2453359</o:p>
+                            </span>
+                        </p>
+                    </td>
+                    <td style="width: 16.84%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="16%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">专业<span lang="EN-US"><o:p></o:p></span></span>
+                        </p>
+                    </td>
+                    <td style="width: 33.14%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 12.0pt"
+                        width="33%">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p>信息安全</o:p>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style="mso-yfti-irow: 5">
+                    <td style="width: 20.0%; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="20%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">手机号<span lang="EN-US"><o:p></o:p></span></span>
+                        </p>
+                    </td>
+                    <td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 12.0pt"
+                        width="30%">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p></o:p>
+                            </span>
+                        </p>
+                    </td>
+                    <td style="width: 16.84%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="16%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">邮箱<span lang="EN-US"><o:p></o:p></span></span>
+                        </p>
+                    </td>
+                    <td style="width: 33.14%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 12.0pt"
+                        width="33%">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p></o:p>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+                <tr style="mso-yfti-irow: 6; mso-yfti-lastrow: yes">
+                    <td style="width: 20.0%; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="20%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">指导老师<span lang="EN-US"><o:p></o:p></span></span>
+                        </p>
+                    </td>
+                    <td style="width: 30.0%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 12.0pt"
+                        width="30%">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p>宋春林</o:p>
+                            </span>
+                        </p>
+                    </td>
+                    <td style="width: 16.84%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt"
+                        width="16%">
+                        <p align="center" class="MsoNormal" style="text-align: center">
+                            <span style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                所在院系<span lang="EN-US">
+                                    <o:p>
+                                        
+                                    </o:p>
+                                </span>
+                            </span>
+                        </p>
+                    </td>
+                    <td style="width: 33.14%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 12.0pt"
+                        width="33%">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">&nbsp;<o:p>
+                                电子与信息工程学院
+                                </o:p></span>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <h4 style="line-height: 30.0pt; page-break-after: avoid; vertical-align: middle">
+                <span style="font-size: 14.0pt; font-family: 黑体">二、</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体"> </span><span style="font-size: 14.0pt; font-family: 黑体">季度报告内容</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体">
+                    <span lang="EN-US">
+                        <o:p></o:p>
+                    </span>
+                </span>
+            </h4>
+            <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width: 100.0%; margin-left: -1.8pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"
+                   width="100%">
+                <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
+                    <td style="border: solid windowtext 1.0pt; padding: 6.0pt 6.0pt 6.0pt 6.0pt">
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-indent: 24.0pt; line-height: 20.0pt; vertical-align: middle">
+                            <b><span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">1</span><span style="mso-bidi-font-family: &quot; times new roman&quot;">）项目进展情况<span lang="EN-US"><o:p></o:p></span></span></b>
+                        </p>
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-indent: 36.15pt; mso-char-indent-count: 3.0; line-height: 20.0pt; vertical-align: middle">
+                            <b><span style="mso-bidi-font-family: &quot; times new roman&quot;">■按计划进行<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;&nbsp; </span></span>□进度提前<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;&nbsp; </span></span>□进度滞后<span lang="EN-US"><o:p></o:p></span></span></b>
+                        </p>
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-indent: 24.0pt; line-height: 20.0pt; mso-list: l0 level1 lfo1; tab-stops: list 0cm; vertical-align: middle">
+                            <![if !supportLists]><b><span lang="EN-US" style="font-family: &quot; times new roman&quot; ,serif; mso-fareast-font-family: &quot; times new roman&quot;"><span style="mso-list: Ignore">2）</span></span></b><![endif]><b><span style="mso-bidi-font-family: &quot; times new roman&quot;">项目主要研究<span lang="EN-US">&nbsp;<o:p></o:p></span></span></b>
+                        </p>
+                        <table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="margin-left: 24.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt">
+                            <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 20.7pt">
+                                <td style="width: 54.95pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 20.7pt"
+                                    valign="top" width="73">
+                                    <p align="center" class="Char" style="text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                        <b><span style="mso-bidi-font-family: &quot; times new roman&quot;">序号<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                                <td style="width: 145.7pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 20.7pt"
+                                    valign="top" width="194">
+                                    <p align="center" class="Char" style="text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                        <b><span style="mso-bidi-font-family: &quot; times new roman&quot;">研究阶段<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                                <td style="width: 130.7pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 20.7pt"
+                                    valign="top" width="174">
+                                    <p align="center" class="Char" style="text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                        <b><span style="mso-bidi-font-family: &quot; times new roman&quot;">研究内容<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                                <td style="width: 106.3pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 20.7pt"
+                                    valign="top" width="142">
+                                    <p align="center" class="Char" style="text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                        <b><span style="mso-bidi-font-family: &quot; times new roman&quot;">完成情况<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                            </tr>
+                        </table>
+                        <p class="Char" style="line-height: 20.0pt; vertical-align: middle">
+                            <b>
+                                <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                    <o:p>&nbsp;</o:p>
+                                </span>
+                            </b>
+                        </p>
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-indent: 24.0pt; line-height: 20.0pt; mso-list: l0 level1 lfo1; tab-stops: list 0cm; vertical-align: middle">
+                            <![if !supportLists]><b><span lang="EN-US" style="font-family: &quot; times new roman&quot; ,serif; mso-fareast-font-family: &quot; times new roman&quot;"><span style="mso-list: Ignore">3）</span></span></b><![endif]><b><span style="mso-bidi-font-family: &quot; times new roman&quot;">项目研究成果<span lang="EN-US"><o:p></o:p></span></span></b>
+                        </p>
+                        <table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="margin-left: 24.0pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt">
+                            <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+                                <td style="width: 47.85pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt"
+                                    valign="top" width="64">
+                                    <p align="center" class="Char" style="text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                        <b><span style="mso-bidi-font-family: &quot; times new roman&quot;">序号<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                                <td style="width: 219.7pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt"
+                                    valign="top" width="293">
+                                    <p align="center" class="Char" style="text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                        <b><span style="mso-bidi-font-family: &quot; times new roman&quot;">季度报告成果名称<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                                <td style="width: 175.95pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt"
+                                    valign="top" width="235">
+                                    <p align="center" class="Char" style="text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                        <b><span style="mso-bidi-font-family: &quot; times new roman&quot;">成果形式<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                            </tr>
+                        </table>
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; line-height: 20.0pt; vertical-align: middle">
+                            <b>
+                                <span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                    <o:p>&nbsp;</o:p>
+                                </span>
+                            </b>
+                        </p>
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-indent: 24.0pt; line-height: 20.0pt; mso-list: l0 level1 lfo1; tab-stops: list 0cm; vertical-align: middle">
+                            <![if !supportLists]><b><span lang="EN-US" style="font-family: &quot; times new roman&quot; ,serif; mso-fareast-font-family: &quot; times new roman&quot;"><span style="mso-list: Ignore">4）</span></span></b><![endif]><b><span style="mso-bidi-font-family: &quot; times new roman&quot;">项目季度报告<span lang="EN-US"><o:p></o:p></span></span></b>
+                        </p>
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 24.0pt; line-height: 20.0pt; vertical-align: middle">
+                            <b>
+                                <span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                    <o:p>1</o:p>
+                                </span>
+                            </b>
+                        </p>
+
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-indent: 24.0pt; line-height: 20.0pt; vertical-align: middle">
+                            <b><span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">5</span><span style="mso-bidi-font-family: &quot; times new roman&quot;">）经费开支情况<span lang="EN-US"><o:p></o:p></span></span></b>
+                        </p>
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-indent: 24.0pt; line-height: 20.0pt; vertical-align: middle">
+                            <b>
+                                <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                    <o:p>&nbsp;</o:p>
+                                </span>
+                            </b>
+                        </p>
+                        <table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="margin-left: 34.5pt; border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt">
+                            <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 22.5pt">
+                                <td style="width: 102.75pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 22.5pt"
+                                    valign="top" width="137">
+                                    <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                        <b><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">名目<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                                <td style="width: 96.55pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 22.5pt"
+                                    valign="top" width="129">
+                                    <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                        <b><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">金额（元）<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                                <td style="width: 116.85pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 22.5pt"
+                                    valign="top" width="156">
+                                    <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                        <b><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">用途<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                                <td style="width: 116.85pt; border: solid windowtext 1.0pt; border-left: none; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 22.5pt"
+                                    valign="top" width="156">
+                                    <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                        <b><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">备注<span lang="EN-US"><o:p></o:p></span></span></b>
+                                    </p>
+                                </td>
+                            </tr>
+
+                                    <tr style="mso-yfti-irow: 1; height: 16.5pt">
+                                        <td style="width: 102.75pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="137">
+                                            <p align="left" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: left; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                                <b><span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;"></span><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">1. 业务费<span lang="EN-US"><o:p></o:p></span></span></b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 96.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="129">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p>0</o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr style="mso-yfti-irow: 1; height: 16.5pt">
+                                        <td style="width: 102.75pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="137">
+                                            <p align="left" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: left; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                                <b><span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;"></span><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">（1）计算、分析、测试费<span lang="EN-US"><o:p></o:p></span></span></b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 96.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="129">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p>0</o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr style="mso-yfti-irow: 1; height: 16.5pt">
+                                        <td style="width: 102.75pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="137">
+                                            <p align="left" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: left; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                                <b><span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;"></span><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">（2）能源动力费<span lang="EN-US"><o:p></o:p></span></span></b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 96.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="129">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p>0</o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr style="mso-yfti-irow: 1; height: 16.5pt">
+                                        <td style="width: 102.75pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="137">
+                                            <p align="left" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: left; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                                <b><span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;"></span><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">（3）会议、差旅费<span lang="EN-US"><o:p></o:p></span></span></b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 96.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="129">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p>0</o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr style="mso-yfti-irow: 1; height: 16.5pt">
+                                        <td style="width: 102.75pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="137">
+                                            <p align="left" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: left; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                                <b><span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;"></span><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">（4）文献检索费<span lang="EN-US"><o:p></o:p></span></span></b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 96.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="129">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p>0</o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr style="mso-yfti-irow: 1; height: 16.5pt">
+                                        <td style="width: 102.75pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="137">
+                                            <p align="left" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: left; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                                <b><span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;"></span><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">（5）论文出版费<span lang="EN-US"><o:p></o:p></span></span></b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 96.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="129">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p>0</o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr style="mso-yfti-irow: 1; height: 16.5pt">
+                                        <td style="width: 102.75pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="137">
+                                            <p align="left" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: left; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                                <b><span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;"></span><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">2. 仪器设备购置费<span lang="EN-US"><o:p></o:p></span></span></b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 96.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="129">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p>0</o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr style="mso-yfti-irow: 1; height: 16.5pt">
+                                        <td style="width: 102.75pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="137">
+                                            <p align="left" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: left; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                                <b><span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;"></span><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">3. 实验装置试制费<span lang="EN-US"><o:p></o:p></span></span></b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 96.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="129">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p>0</o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr style="mso-yfti-irow: 1; height: 16.5pt">
+                                        <td style="width: 102.75pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="137">
+                                            <p align="left" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: left; line-height: 20.0pt; mso-pagination: widow-orphan; vertical-align: middle">
+                                                <b><span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;"></span><span style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">4. 材料费<span lang="EN-US"><o:p></o:p></span></span></b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 96.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="129">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p>0</o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                        <td style="width: 116.85pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 16.5pt"
+                                            valign="top" width="156">
+                                            <p align="center" class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-align: center; line-height: 20.0pt; mso-pagination: none; vertical-align: middle">
+                                                <b>
+                                                    <span lang="EN-US" style="font-size: 10.0pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                                        <o:p></o:p>
+                                                    </span>
+                                                </b>
+                                            </p>
+                                        </td>
+                                    </tr>
+                        </table>
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-indent: 24.0pt; line-height: 20.0pt; vertical-align: middle">
+                            <b>
+                                <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                    <o:p>&nbsp;</o:p>
+                                </span>
+                            </b>
+                        </p>
+                        <p class="Char" style="margin-top: 6.0pt; margin-right: 0cm; margin-bottom: 6.0pt; margin-left: 0cm; text-indent: 24.0pt; line-height: 20.0pt; vertical-align: middle">
+                            <b><span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">6</span><span style="mso-bidi-font-family: &quot; times new roman&quot;">）项目后期具体工作计划<span lang="EN-US"><o:p></o:p></span></span></b>
+                        </p>
+                        <p class="MsoNormal" style="margin-top: 12.0pt; margin-right: 4.0pt; margin-bottom: 24.0pt; margin-left: 4.0pt; text-indent: 24.0pt; line-height: 24.0pt">
+                            <span lang="EN-US" style="font-size: 10.5pt; mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p>1</o:p>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <h4 style="line-height: 30.0pt; page-break-after: avoid; vertical-align: middle">
+                <span style="font-size: 14.0pt; font-family: 黑体">三、</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体"> </span><span style="font-size: 14.0pt; font-family: 黑体">项目组成员签名</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体">
+                    <span lang="EN-US">
+                        <o:p></o:p>
+                    </span>
+                </span>
+            </h4>
+            <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width: 100.0%; margin-left: 10.2pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"
+                   width="100%">
+                <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
+                    <td style="border: solid windowtext 1.0pt; padding: 6.0pt 2.0pt 6.0pt 2.0pt">
+                        <p class="MsoNormal" style="margin: 12.0pt">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <span style="mso-spacerun: yes">&nbsp; </span>
+                                <o:p></o:p>
+                            </span>
+                        </p>
+                        <p class="MsoNormal" style="margin: 12.0pt">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <span style="mso-spacerun: yes">&nbsp; </span>
+                                <o:p></o:p>
+                            </span>
+                        </p>
+                        <p class="MsoNormal" style="margin: 12.0pt">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <span style="mso-spacerun: yes">&nbsp; </span>
+                                <o:p></o:p>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <h4 style="line-height: 30.0pt; page-break-after: avoid; vertical-align: middle">
+                <span style="font-size: 14.0pt; font-family: 黑体">四、</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体"> </span><span style="font-size: 14.0pt; font-family: 黑体">指导老师意见</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体">
+                    <span lang="EN-US">
+                        <o:p></o:p>
+                    </span>
+                </span>
+            </h4>
+            <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width: 100.0%; margin-left: 10.2pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"
+                   width="100%">
+                <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
+                    <td style="border: solid windowtext 1.0pt; padding: 6.0pt 2.0pt 6.0pt 2.0pt">
+                        <p class="MsoNormal" style="margin: 12.0pt">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <span style="mso-spacerun: yes">&nbsp; </span>
+
+
+                            </span>
+                        </p>
+                        <p align="right" class="MsoNormal" style="margin-top: 12.0pt; margin-right: 40.0pt; margin-bottom: 2.0pt; margin-left: 0cm; text-align: right">
+                            <b><span style="font-family: 仿宋; mso-bidi-font-family: &quot; times new roman&quot;">导师签字：<span lang="EN-US"><o:p></o:p></span></span></b>
+                        </p>
+                        <p align="right" class="MsoNormal" style="margin-top: 12.0pt; margin-right: 40.0pt; margin-bottom: 2.0pt; margin-left: 0cm; text-align: right">
+                            <b>
+                                <span lang="EN-US" style="font-family: 仿宋; mso-bidi-font-family: &quot; times new roman&quot;"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-family: 仿宋; mso-bidi-font-family: &quot; times new roman&quot;">
+                                    年<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>月<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>日<span lang="EN-US">
+                                        <span style="mso-spacerun: yes">&nbsp; </span>
+                                        <o:p></o:p>
+                                    </span>
+                                </span>
+                            </b>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <h4 style="line-height: 30.0pt; page-break-after: avoid; vertical-align: middle">
+                <span style="font-size: 14.0pt; font-family: 黑体">五、</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体"> </span><span style="font-size: 14.0pt; font-family: 黑体">院系意见</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体">
+                    <span lang="EN-US">
+                        <o:p></o:p>
+                    </span>
+                </span>
+            </h4>
+            <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width: 100.0%; margin-left: 10.2pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"
+                   width="100%">
+                <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
+                    <td style="border: solid windowtext 1.0pt; padding: 6.0pt 2.0pt 6.0pt 2.0pt">
+                        <p class="MsoNormal" style="margin: 12.0pt">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <span style="mso-spacerun: yes">&nbsp; </span>
+                            </span>
+                        </p>
+
+                        <p align="right" class="MsoNormal" style="margin-top: 12.0pt; margin-right: 40.0pt; margin-bottom: 2.0pt; margin-left: 0cm; text-align: right">
+                            <b><span style="font-family: 仿宋; mso-bidi-font-family: &quot; times new roman&quot;">教学负责人（签章）：<span lang="EN-US"><o:p></o:p></span></span></b>
+                        </p>
+                        <p align="right" class="MsoNormal" style="margin-top: 12.0pt; margin-right: 40.0pt; margin-bottom: 2.0pt; margin-left: 0cm; text-align: right">
+                            <b>
+                                <span lang="EN-US" style="font-family: 仿宋; mso-bidi-font-family: &quot; times new roman&quot;"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-family: 仿宋; mso-bidi-font-family: &quot; times new roman&quot;">
+                                    年<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>月<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>日<span lang="EN-US">
+                                        <span style="mso-spacerun: yes">&nbsp; </span>
+                                        <o:p></o:p>
+                                    </span>
+                                </span>
+                            </b>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <h4 style="line-height: 30.0pt; page-break-after: avoid; vertical-align: middle">
+                <span style="font-size: 14.0pt; font-family: 黑体">六、</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体"> </span><span style="font-size: 14.0pt; font-family: 黑体">学校大学生创新创业训练计划专家组意见</span><span style="font-size: 14.0pt; font-family: 黑体; mso-hansi-font-family: 宋体">
+                    <span lang="EN-US">
+                        <o:p></o:p>
+                    </span>
+                </span>
+            </h4>
+            <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width: 100.0%; margin-left: 10.2pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"
+                   width="100%">
+                <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
+                    <td style="border: solid windowtext 1.0pt; padding: 6.0pt 2.0pt 6.0pt 2.0pt">
+                        <p class="MsoNormal" style="margin: 12.0pt">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <span style="mso-spacerun: yes">&nbsp; </span>
+                            </span>
+                        </p>
+
+                        <p align="right" class="MsoNormal" style="margin-top: 12.0pt; margin-right: 40.0pt; margin-bottom: 2.0pt; margin-left: 0cm; text-align: right">
+                            <b><span style="font-family: 仿宋; mso-bidi-font-family: &quot; times new roman&quot;">负责人（签章）：<span lang="EN-US"><o:p></o:p></span></span></b>
+                        </p>
+                        <p align="right" class="MsoNormal" style="margin-top: 12.0pt; margin-right: 40.0pt; margin-bottom: 2.0pt; margin-left: 0cm; text-align: right">
+                            <b>
+                                <span lang="EN-US" style="font-family: 仿宋; mso-bidi-font-family: &quot; times new roman&quot;"><span style="mso-spacerun: yes">&nbsp; </span></span><span style="font-family: 仿宋; mso-bidi-font-family: &quot; times new roman&quot;">
+                                    年<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>月<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>日<span lang="EN-US">
+                                        <span style="mso-spacerun: yes">&nbsp; </span>
+                                        <o:p></o:p>
+                                    </span>
+                                </span>
+                            </b>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <p class="MsoNormal">
+                <span lang="EN-US" style="display: none; mso-hide: all"><span style="mso-spacerun: yes">&nbsp;</span><o:p></o:p></span>
+            </p>
+            <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left: -719.8pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 0cm 0cm 0cm">
+                <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
+                    <td style="padding: 0cm 0cm 0cm 0cm">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p>&nbsp;</o:p>
+                            </span>
+                        </p>
+                    </td>
+                    <td style="padding: 0cm 0cm 0cm 0cm">
+                        <p class="MsoNormal">
+                            <span lang="EN-US" style="mso-bidi-font-family: &quot; times new roman&quot;">
+                                <o:p>&nbsp;</o:p>
+                            </span>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <p class="MsoNormal">
+                <span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;</span><o:p></o:p></span>
+            </p>
+
+        </div>
+
+
+    </div>
+</body>
+</html>

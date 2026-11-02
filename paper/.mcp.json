@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+      "word-document-server": {
+        "command": "/opt/anaconda3/envs/mcp-word/bin/python",
+        "args": ["/Users/lixinyang/Desktop/lxy_document/paper/Office-Word-MCP-Server/word_mcp_server.py"]
+      }
+    }
+}

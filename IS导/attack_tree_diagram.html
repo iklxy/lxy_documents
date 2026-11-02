@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>一卡通售饭系统攻击树模型</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: "Microsoft YaHei", "SimHei", Arial, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+            width: 95%;
+            max-width: 1800px;
+            overflow-x: auto;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 40px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        
+        .tree-container {
+            width: 100%;
+            min-width: 1600px;
+            height: 900px;
+            position: relative;
+        }
+        
+        .tree-svg {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+        
+        .node rect {
+            fill: #34495e;
+            stroke: #2c3e50;
+            stroke-width: 2;
+            rx: 8;
+        }
+        
+        .node.root rect {
+            fill: #c0392b;
+        }
+        
+        .node.level1 rect {
+            fill: #2980b9;
+        }
+        
+        .node.level2 rect {
+            fill: #27ae60;
+        }
+        
+        .node.level3 rect {
+            fill: #d68910;
+        }
+        
+        .node.note rect {
+            fill: #7f8c8d;
+            stroke-dasharray: 4,4;
+        }
+        
+        .node text {
+            fill: white;
+            font-size: 14px;
+            font-weight: bold;
+            pointer-events: none;
+        }
+        
+        .node.note text {
+            font-size: 12px;
+            font-weight: normal;
+            font-style: italic;
+        }
+        
+        .link {
+            fill: none;
+            stroke: #2c3e50;
+            stroke-width: 2.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>图 4-2 一卡通售饭系统攻击树模型</h1>
+        <div class="tree-container">
+            <svg class="tree-svg" id="treeSvg"></svg>
+        </div>
+    </div>
+    
+    <script>
+        const svg = document.getElementById('treeSvg');
+        const svgNS = 'http://www.w3.org/2000/svg';
+        
+        // 定义树结构，手动设置每个节点的精确位置
+        const nodes = [
+            // Level 0 - Root
+            { id: 'root', name: '[根目标: 非法获取餐饮服务]', class: 'root', x: 800, y: 70, width: 280, height: 50 },
+            
+            // Level 1
+            { id: 'a', name: '[A. 客户端攻击]', class: 'level1', x: 400, y: 200, width: 180, height: 50 },
+            { id: 'b', name: '[B. 网络/服务端攻击]', class: 'level1', x: 1200, y: 200, width: 220, height: 50 },
+            
+            // Level 2 - A branch
+            { id: 'a1', name: '[A1.修改卡片]', class: 'level2', x: 220, y: 330, width: 150, height: 50 },
+            { id: 'a2', name: '[A2.克隆卡片]', class: 'level2', x: 580, y: 330, width: 150, height: 50 },
+            
+            // Level 2 - B branch
+            { id: 'b1', name: '[B1.重放攻击]', class: 'level2', x: 1020, y: 330, width: 150, height: 50 },
+            { id: 'b2', name: '[B2.中间人篡改]', class: 'level2', x: 1380, y: 330, width: 170, height: 50 },
+            
+            // Level 3 - A1 children
+            { id: 'a11', name: '破解 Key A', class: 'level3', x: 120, y: 460, width: 120, height: 50 },
+            { id: 'a12', name: '读取 UID', class: 'level3', x: 320, y: 460, width: 110, height: 50 },
+            
+            // Level 3 - A2 children
+            { id: 'a21', name: '截获', class: 'level3', x: 510, y: 460, width: 90, height: 50 },
+            { id: 'a22', name: '拷贝', class: 'level3', x: 650, y: 460, width: 90, height: 50 },
+            
+            // Level 3 - B1 children
+            { id: 'b11', name: 'ARP', class: 'level3', x: 1020, y: 460, width: 90, height: 50 },
+            
+            // Level 3 - B2 children
+            { id: 'b21', name: '欺骗', class: 'level3', x: 1380, y: 460, width: 90, height: 50 },
+            
+            // Level 4 - Notes
+            { id: 'note1', name: '(利用漏洞:\nMifare 弱加密)', class: 'note', x: 120, y: 590, width: 140, height: 55 },
+            { id: 'note2', name: '(利用漏洞:\nUID 未加密)', class: 'note', x: 650, y: 590, width: 130, height: 55 },
+        ];
+        
+        // 定义连接关系
+        const links = [
+            { from: 'root', to: 'a' },
+            { from: 'root', to: 'b' },
+            { from: 'a', to: 'a1' },
+            { from: 'a', to: 'a2' },
+            { from: 'b', to: 'b1' },
+            { from: 'b', to: 'b2' },
+            { from: 'a1', to: 'a11' },
+            { from: 'a1', to: 'a12' },
+            { from: 'a2', to: 'a21' },
+            { from: 'a2', to: 'a22' },
+            { from: 'b1', to: 'b11' },
+            { from: 'b2', to: 'b21' },
+            { from: 'a11', to: 'note1' },
+            { from: 'a22', to: 'note2' },
+        ];
+        
+        // 创建节点查找表
+        const nodeMap = {};
+        nodes.forEach(node => {
+            nodeMap[node.id] = node;
+        });
+        
+        // 绘制连接线
+        function drawLink(fromNode, toNode) {
+            const path = document.createElementNS(svgNS, 'path');
+            const x1 = fromNode.x;
+            const y1 = fromNode.y + fromNode.height / 2;
+            const x2 = toNode.x;
+            const y2 = toNode.y - toNode.height / 2;
+            
+            const midY = (y1 + y2) / 2;
+            const d = `M ${x1} ${y1} C ${x1} ${midY}, ${x2} ${midY}, ${x2} ${y2}`;
+            path.setAttribute('d', d);
+            path.setAttribute('class', 'link');
+            return path;
+        }
+        
+        // 绘制所有连接线
+        links.forEach(link => {
+            const fromNode = nodeMap[link.from];
+            const toNode = nodeMap[link.to];
+            if (fromNode && toNode) {
+                svg.appendChild(drawLink(fromNode, toNode));
+            }
+        });
+        
+        // 绘制节点
+        nodes.forEach(node => {
+            const g = document.createElementNS(svgNS, 'g');
+            g.setAttribute('class', `node ${node.class}`);
+            g.setAttribute('transform', `translate(${node.x - node.width/2}, ${node.y - node.height/2})`);
+            
+            const rect = document.createElementNS(svgNS, 'rect');
+            rect.setAttribute('width', node.width);
+            rect.setAttribute('height', node.height);
+            g.appendChild(rect);
+            
+            const text = document.createElementNS(svgNS, 'text');
+            text.setAttribute('x', node.width / 2);
+            text.setAttribute('text-anchor', 'middle');
+            text.setAttribute('dominant-baseline', 'middle');
+            
+            const lines = node.name.split('\n');
+            if (lines.length > 1) {
+                const lineHeight = 16;
+                const startY = node.height / 2 - ((lines.length - 1) * lineHeight / 2);
+                lines.forEach((line, i) => {
+                    const tspan = document.createElementNS(svgNS, 'tspan');
+                    tspan.textContent = line;
+                    tspan.setAttribute('x', node.width / 2);
+                    tspan.setAttribute('y', startY + i * lineHeight);
+                    text.appendChild(tspan);
+                });
+            } else {
+                text.textContent = node.name;
+                text.setAttribute('y', node.height / 2);
+            }
+            
+            g.appendChild(text);
+            svg.appendChild(g);
+        });
+    </script>
+</body>
+</html>
